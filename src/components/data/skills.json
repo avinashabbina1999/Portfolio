@@ -1,0 +1,46 @@
+[
+    {
+        "title" : "ReactJS",
+        "imageSrc" : "skills/react.png"
+    },
+    {
+        "title" : "Angular",
+        "imageSrc" : "skills/angular.png"
+    },
+    {
+        "title" : "NodeJS",
+        "imageSrc" : "skills/node.png"
+    },
+    {
+        "title" : "Spring Boot",
+        "imageSrc" : "skills/springboot.png"
+    },
+    {
+        "title" : "Redux",
+        "imageSrc" : "skills/redux.jpg"
+    },
+    {
+        "title" : "JavaScript",
+        "imageSrc" : "skills/javascript.png"
+    },
+    {
+        "title" : "TypeScript",
+        "imageSrc" : "skills/typescript.png"
+    },
+    {
+        "title" : "Java",
+        "imageSrc" : "skills/java.png"
+    },
+    {
+        "title" : "Python",
+        "imageSrc" : "skills/python.png"
+    },
+    {
+        "title" : "SQL",
+        "imageSrc" : "skills/sql.jpg"
+    },
+    {
+        "title" : "SAP ABAP",
+        "imageSrc" : "skills/sapabap.png"
+    }    
+]

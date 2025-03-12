@@ -1,0 +1,26 @@
+[
+    {
+        "title" : "Graduate Assistant",
+        "organization" : "Southeast Missouri State University",
+        "startDate" : "Jan 2025",
+        "endDate" : "Present",
+        "experiences" : ["Managing math lab", "Assisting students in math and computer science"],
+        "imageSrc" : "history/semo.png" 
+    },
+    {
+        "title" : "Software Engineer",
+        "organization" : "Ford Motor Pvt. Ltd.",
+        "startDate" : "Aug 2020",
+        "endDate" : "Jul 2023",
+        "experiences" : ["Developed and Optimized 10+ applications","Acted as a project manager for 2 months"],
+        "imageSrc" : "history/ford.png"
+    },
+    {
+        "title" : "Software Development Intern",
+        "organization" : "Ford Motor Pvt. Ltd.",
+        "startDate" : "May 2019",
+        "endDate" : "Jul 2019",
+        "experiences" : ["Implemented Redis cache to optimize processing","Tested 50+ RESTful APIs with Postman"],
+        "imageSrc" : "history/ford.png"
+    }
+]

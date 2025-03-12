@@ -1,0 +1,128 @@
+[
+    {
+        "title" : "E-commerce website",
+        "imageSrc" : "projects/amazon.webp",
+        "description" : "Constructed a full-stack application for e-commerce website using React, SpringBoot and H2 for database",
+        "skills" : ["React","Spring Boot","H2"],
+        "source" : "https://github.com/avinashabbina1999/SpringBoot/tree/main/E-Commerce%20Project"
+    },
+    {
+        "title" : "Employee Management System Website",
+        "imageSrc" : "projects/ems.webp",
+        "description" : "Devised a feature-rich EMS using Angular, Spring Boot, and SQL to streamline employee data management",
+        "skills" : ["Angular","Spring Boot","SQL"],
+        "source" : "https://github.com/avinashabbina1999/Employee-Management-System"
+    },
+    {
+        "title" : "Food Website",
+        "imageSrc" : "projects/paper.webp",
+        "description" : "Created front-end part of a mock food ordering website using Angular, TypeScript, HTML and CSS.",
+        "skills" : ["Angular","TypeScript"],
+        "source" : "https://github.com/avinashabbina1999/Angular/tree/main/food-app"
+    },
+    {
+        "title" : "Youtube Clone",
+        "imageSrc" : "projects/channel.webp",
+        "description" : "Implemented n-level nested comments, live chat, and predictive search suggestions using React to enhance interactivity.",
+        "skills" : ["React","JavaScript","Tailwind CSS"],
+        "source" : "https://github.com/avinashabbina1999/Youtube-Clone/tree/main/utube"
+    },
+    {
+        "title" : "Interpreter Implementation",
+        "imageSrc" : "projects/interpreter.webp",
+        "description" : "Designed a C++ interpreter for a loop-based language with parsing, execution, and memory management.",
+        "skills" : ["C++","syntax","parsing"],
+        "source" : "https://github.com/avinashabbina1999/interpreter-implementation---cpp"
+    },
+    {
+        "title" : "Amazon Frontend Clone",
+        "imageSrc" : "projects/amazon.webp",
+        "description" : "Developed an Amazon-like frontend with item selection, cart functionality, and delivery date tracking for improved user experience.",
+        "skills" : ["JavaScript","HTML","CSS"],
+        "source" : "https://github.com/avinashabbina1999/javascript-practice/tree/main/javascript-amazon-project-main"
+    },
+    {
+        "title" : "Path Finder in a Maze",
+        "imageSrc" : "projects/maze.webp",
+        "description" : "Engineered a maze-solving model using DFS, BFS, and A* heuristic in Python optimizing maze-solving efficiency.",
+        "skills" : ["Python","Graph Theory"],
+        "source" : "https://github.com/avinashabbina1999/Maze-Path-Finder"
+    },
+    {
+        "title" : "Employee Management System",
+        "imageSrc" : "projects/ems.webp",
+        "description" : "Built a mock employee management system with Django for the UI and SQL for data storage. Included role-based access control.",
+        "skills" : ["SQL","Django"],
+        "source" : ""
+    },
+    {
+        "title" : "File Automation",
+        "imageSrc" : "projects/file.webp",
+        "description" : "Automated 90% of manual file handling tasks, reducing effort and saving 20+ hours per week.",
+        "skills" : ["SAP ABAP"],
+        "source" : ""
+    },
+    {
+        "title" : "Channel Optimization",
+        "imageSrc" : "projects/channel.webp",
+        "description" : "Optimized customer communication channels, cutting redundant messages by 30% and boosting engagement by 20%.",
+        "skills" : ["SAP ABAP"],
+        "source" : ""
+    },
+    {
+        "title" : "FordPass Response Upload",
+        "imageSrc" : "projects/fordpass.webp",
+        "description" : "Automated response download and update processes, reducing manual workload by 80%.",
+        "skills" : ["SAP ABAP"],
+        "source" : ""
+    },
+    {
+        "title" : "China Decommission Project",
+        "imageSrc" : "projects/china.webp",
+        "description" : "Led the removal of 500K+ customer records, ensuring data privacy compliance and regulatory adherence.",
+        "skills" : ["SAP ABAP"],
+        "source" : ""
+    },
+    {
+        "title" : "Campaign Development",
+        "imageSrc" : "projects/campaign.webp",
+        "description" : "Designed, tested, and deployed multiple marketing campaigns across different regions and channels.",
+        "skills" : ["SAP ABAP"],
+        "source" : ""
+    },
+    {
+        "title" : "Zalo Interface Creation",
+        "imageSrc" : "projects/zalo.webp",
+        "description" : "Developed a Zalo interface for the Vietnam market, integrating request processing with SAP.",
+        "skills" : ["SAP ABAP"],
+        "source" : ""
+    },
+    {
+        "title" : "E-Voucher Campaign Automation",
+        "imageSrc" : "projects/evoucher.webp",
+        "description" : "Automated E-voucher campaign workflows, enhancing accuracy and minimizing manual intervention.",
+        "skills" : ["SAP ABAP"],
+        "source" : ""
+    },
+    {
+        "title" : "Weakly Connected Roman Domination",
+        "imageSrc" : "projects/roman.webp",
+        "description" : "Conducted a thesis study on Roman Domination in Weakly Connected Graphs, analyzing its effects and applications.",
+        "skills" : ["Graph Theory"],
+        "source" : ""
+    },
+    {
+        "title" : "Redis Proof of Concept",
+        "imageSrc" : "projects/redis.webp",
+        "description" : "Implemented Redis caching in an internship project to reduce main database load and improve performance.",
+        "skills" : ["Java","Spring Boot"],
+        "source" : ""
+    },
+    {
+        "title" : "Paper Review Portal",
+        "imageSrc" : "projects/paper.webp",
+        "description" : "Developed a portal allowing users to submit papers for grading and reviewers to evaluate submissions.",
+        "skills" : ["JavaScript","HTML","CSS"],
+        "source" : ""
+    }
+]
