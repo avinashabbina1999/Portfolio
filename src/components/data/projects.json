@@ -56,55 +56,6 @@
         "source" : ""
     },
     {
-        "title" : "File Automation",
-        "imageSrc" : "projects/file.webp",
-        "description" : "Automated 90% of manual file handling tasks, reducing effort and saving 20+ hours per week.",
-        "skills" : ["SAP ABAP"],
-        "source" : ""
-    },
-    {
-        "title" : "Channel Optimization",
-        "imageSrc" : "projects/channel.webp",
-        "description" : "Optimized customer communication channels, cutting redundant messages by 30% and boosting engagement by 20%.",
-        "skills" : ["SAP ABAP"],
-        "source" : ""
-    },
-    {
-        "title" : "FordPass Response Upload",
-        "imageSrc" : "projects/fordpass.webp",
-        "description" : "Automated response download and update processes, reducing manual workload by 80%.",
-        "skills" : ["SAP ABAP"],
-        "source" : ""
-    },
-    {
-        "title" : "China Decommission Project",
-        "imageSrc" : "projects/china.webp",
-        "description" : "Led the removal of 500K+ customer records, ensuring data privacy compliance and regulatory adherence.",
-        "skills" : ["SAP ABAP"],
-        "source" : ""
-    },
-    {
-        "title" : "Campaign Development",
-        "imageSrc" : "projects/campaign.webp",
-        "description" : "Designed, tested, and deployed multiple marketing campaigns across different regions and channels.",
-        "skills" : ["SAP ABAP"],
-        "source" : ""
-    },
-    {
-        "title" : "Zalo Interface Creation",
-        "imageSrc" : "projects/zalo.webp",
-        "description" : "Developed a Zalo interface for the Vietnam market, integrating request processing with SAP.",
-        "skills" : ["SAP ABAP"],
-        "source" : ""
-    },
-    {
-        "title" : "E-Voucher Campaign Automation",
-        "imageSrc" : "projects/evoucher.webp",
-        "description" : "Automated E-voucher campaign workflows, enhancing accuracy and minimizing manual intervention.",
-        "skills" : ["SAP ABAP"],
-        "source" : ""
-    },
-    {
         "title" : "Weakly Connected Roman Domination",
         "imageSrc" : "projects/roman.webp",
         "description" : "Conducted a thesis study on Roman Domination in Weakly Connected Graphs, analyzing its effects and applications.",

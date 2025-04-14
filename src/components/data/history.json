@@ -8,11 +8,11 @@
         "imageSrc" : "history/semo.png" 
     },
     {
-        "title" : "Software Engineer",
+        "title" : "Full Stack Developer",
         "organization" : "Ford Motor Pvt. Ltd.",
         "startDate" : "Aug 2020",
         "endDate" : "Jul 2023",
-        "experiences" : ["Developed and Optimized 10+ applications","Acted as a project manager for 2 months"],
+        "experiences" : ["Developed and Integrated 13+ features","Acted as a project manager for 2 months"],
         "imageSrc" : "history/ford.png"
     },
     {
